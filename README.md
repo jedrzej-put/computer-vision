@@ -1,1 +1,1 @@
-<img src="https://github.com/jedrzej-put/video-processing/blob/main/Billiards-Object-Tracking/result.png" width="399" height="370"  title="Sample Input Image"> <img src="https://github.com/JedrzejSmok/projektKCK/blob/main/result/3/hard (3).jpg" width="399" height="370" title="Sample Output Frame">
+<img src="https://github.com/jedrzej-put/video-processing/blob/main/Billiards-Object-Tracking/img/result.png" width="399" height="370"  title="Sample Output Frame">
